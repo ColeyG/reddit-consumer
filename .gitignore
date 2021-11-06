@@ -1,0 +1,10 @@
+__pycache__
+data/content/*
+data/meta/*
+data/postdata/*
+!data/content/.gitkeep
+!data/meta/.gitkeep
+!data/postdata/.gitkeep
+logs.txt
+configuration.yaml
+configuration-prod.yaml

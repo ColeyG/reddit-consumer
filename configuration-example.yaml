@@ -1,0 +1,5 @@
+id: 'some id'
+secret: 'some secret'
+userAgent: 'API Access'
+subreddits: ['pics']
+amount: 10
